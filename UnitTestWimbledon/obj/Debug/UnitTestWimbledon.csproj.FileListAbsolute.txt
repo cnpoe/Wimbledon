@@ -1,0 +1,9 @@
+c:\users\lmorales\documents\visual studio 2015\Projects\Wimbledon\UnitTestWimbledon\obj\Debug\UnitTestWimbledon.csprojResolveAssemblyReference.cache
+c:\users\lmorales\documents\visual studio 2015\Projects\Wimbledon\UnitTestWimbledon\bin\Debug\UnitTestWimbledon.dll
+c:\users\lmorales\documents\visual studio 2015\Projects\Wimbledon\UnitTestWimbledon\bin\Debug\UnitTestWimbledon.pdb
+c:\users\lmorales\documents\visual studio 2015\Projects\Wimbledon\UnitTestWimbledon\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\lmorales\documents\visual studio 2015\Projects\Wimbledon\UnitTestWimbledon\bin\Debug\Wimbledon.exe
+c:\users\lmorales\documents\visual studio 2015\Projects\Wimbledon\UnitTestWimbledon\bin\Debug\Wimbledon.pdb
+c:\users\lmorales\documents\visual studio 2015\Projects\Wimbledon\UnitTestWimbledon\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+c:\users\lmorales\documents\visual studio 2015\Projects\Wimbledon\UnitTestWimbledon\obj\Debug\UnitTestWimbledon.dll
+c:\users\lmorales\documents\visual studio 2015\Projects\Wimbledon\UnitTestWimbledon\obj\Debug\UnitTestWimbledon.pdb
